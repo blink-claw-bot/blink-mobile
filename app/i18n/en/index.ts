@@ -2569,7 +2569,7 @@ const en: BaseTranslation = {
     titleSelfCustodial: "Default balance",
     infoBtc: "Your Bitcoin balance is for stacking sats, where the value moves with the market.",
     infoUsd: "Your Dollar balance is powered by Stablesats — it holds Bitcoin that is hedged to stay stable in USD terms. You're always holding Bitcoin, but the USD value doesn't change.",
-    infoUsdSelfCustodial: "Due to user experience concerns we decided to not activate this feature in the non-custodial accounts. Only Bitcoin is available as your default receive setting.",
+    infoUsdSelfCustodial: "Dollar Balance is not available as a default receive option for non-custodial accounts. Bitcoin is currently used by default.",
   },
   ThemeScreen: {
     title: "Theme",

@@ -20329,7 +20329,7 @@ export type TranslationFunctions = {
 		 */
 		infoUsd: () => LocalizedString
 		/**
-		 * Due to user experience concerns we decided to not activate this feature in the non-custodial accounts. Only Bitcoin is available as your default receive setting.
+		 * Dollar Balance is not available as a default receive option for non-custodial accounts. Bitcoin is currently used by default.
 		 */
 		infoUsdSelfCustodial: () => LocalizedString
 	}
